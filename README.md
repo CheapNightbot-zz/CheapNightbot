@@ -1,7 +1,3 @@
-```
->> check for "I'm not a robot"...
+<h1 align="center">Cheap Nightbot</h1>
 
->> 400 Bad Request
-
->> retrying in 5 seconds...
-```
+<p align="center"> <a href="#"><img src="https://github-stats-alpha.vercel.app/api?username=cheapnightbot" alt="CheapNightbot" /></a> </p>
