@@ -1,3 +1,5 @@
+# rest in peace 
+
 <p align="center">
   <a href="#"><img align="left" src="https://github-stats-alpha.vercel.app/api?username=cheapnightbot" alt="CheapNightbot" /></a>
   <a href="#"><img align="center" src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=22&pause=1000&center=true&vCenter=true&width=230&height=40&lines=Cheap+Nightbot" /></a>
